@@ -142,7 +142,6 @@ elsif($cms =~/wp-content|wordpress|xmlrpc.php/) {
     print save "$site\n"; 
     close(save);
     addblockblocker();
-    wpallimport();
     blaze();
     catpro();
     cherry();
