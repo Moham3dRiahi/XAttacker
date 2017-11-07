@@ -25,7 +25,7 @@
 <h2>X Attacker</h2>
 
 X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
-<img src="https://i.imgur.com/DxZyQit.jpg" alt="Sublist3r" title="Sublist3r in action" data-canonical-src="https://i.imgur.com/DxZyQit.jpg" style="max-width:100%;">
+<img src="https://i.imgur.com/DxZyQit.jpg" data-canonical-src="https://i.imgur.com/DxZyQit.jpg" style="max-width:100%;">
 
 <b>[+] Auto Cms Detect
 
@@ -134,7 +134,7 @@ SQL injection
 <code>perl XAttacker.pl -l list.txt</code>
 <br><br><strong>for coloring in windows Add This Line</strong><br>
 <code>use Win32::Console::ANSI;</code>
-<br><img src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" alt="Sublist3r" title="Sublist3r in action" data-canonical-src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" style="max-width:100%;">
+<br><img src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" data-canonical-src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" style="max-width:100%;">
 <h2>Version</h2>
 <strong>Current version is 2.0</strong>
 <strong>What's New </strong>
