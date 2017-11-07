@@ -136,6 +136,11 @@ SQL injection
 <br><br><strong>for coloring in windows Add This Line</strong><br>
 <code>use Win32::Console::ANSI;</code>
 <br><img src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" data-canonical-src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" style="max-width:100%;">
+
+<strong>⚠ Warning ⚠</strong>
+<strong>Don't forget update time every month in line 37</strong>
+<strong>Don't forget check online tools in line 1081 and 3256</strong>
+
 <h2>Version</h2>
 <strong>Current version is 2.0</strong>
 <strong>What's New </strong>
