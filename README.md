@@ -70,7 +70,7 @@ X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 [+] Com Ads Manager  
 [+] Com Blog  
 [+] Com Users  
-[+] Com Weblinks
+[+] Com Weblinks<br>
 [+] mod_simplefileupload 
 
 <b>[3] DruPal<br> 
@@ -137,9 +137,9 @@ SQL injection
 <code>use Win32::Console::ANSI;</code>
 <br><img src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" data-canonical-src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" style="max-width:100%;">
 
-<strong>⚠ Warning ⚠</strong>
-<strong>Don't forget update time every month in line 37</strong>
-<strong>Don't forget check online tools in line 1081 and 3256</strong>
+<strong>⚠ Warning ⚠</strong><br>
+<strong>Don't forget update time every month in line 37</strong><br>
+<strong>Don't forget check online tools in line 1081 and 3256</strong><br>
 
 <h2>Version</h2>
 <strong>Current version is 2.0</strong>
