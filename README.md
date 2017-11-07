@@ -113,7 +113,7 @@ SQL injection
 
 <h2>Video</h2>
 <<h2>Video</h2>
-<p><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=EgqTsrWt2VU"><img src="https://i.imgur.com/5B96biH.png" style="max-width:100%;"></a></p>
+<p><a href="https://www.youtube.com/watch?v=EgqTsrWt2VU"><img src="https://i.imgur.com/5B96biH.png" style="max-width:100%;"></a></p>
 
 <h2>Usage</h2>
 
