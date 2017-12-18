@@ -34,8 +34,12 @@ OPTIONS:
 );
 exit;}
 
-my $datetime = localtime;
-my ($month, $year) = ($datetime->month, $datetime->year);
+my $datetime    = localtime;
+
+@months = qw(01 02 03 04 05 06 07 08 09 10 11 12);
+($second, $minute, $hour, $dayOfMonth, $month, $yearOffset, $dayOfWeek, $dayOfYear, $daylightSavings) = localtime();
+$year = 1900 + $yearOffset;
+$month = "$months[$month] ";
 
 system("title X Attacker v2.0");
 if ($^O =~ /MSWin32/) { system("cls"); } else { system("clear"); }
