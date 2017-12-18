@@ -133,8 +133,11 @@ SQL injection
 </tr>
 </tbody></table>
 <h2>Example</h2>
+<p>if you have list websites run tool with this command line<p>
 <code>perl XAttacker.pl -l list.txt</code>
-
+<p>if you don't have list websites run the tool with this command<p>
+<code>perl XAttacker.pl</code>
+<hr>
 <strong>⚠ Warning ⚠</strong><br>
 
 <strong>Don't forget check online tools in line 1081 and 3256</strong><br>
