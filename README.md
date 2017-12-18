@@ -37,8 +37,9 @@ X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 [+] Catpro <br>
 [+] Cherry Plugin  
 [+] Download Manager  
-[+] Formcraft  
-[+] Power Zoomer  
+[+] Formcraft 
+<br>[+] levoslideshow 
+<br>[+] Power Zoomer  
 [+] Gravity Forms  
 [+] Revslider Upload Shell  
 [+] Revslider Dafece Ajax  
@@ -133,17 +134,19 @@ SQL injection
 </tbody></table>
 <h2>Example</h2>
 <code>perl XAttacker.pl -l list.txt</code>
-<br><br><strong>for coloring in windows Add This Line</strong><br>
-<code>use Win32::Console::ANSI;</code>
-<br><img src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" data-canonical-src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" style="max-width:100%;">
 
 <strong>⚠ Warning ⚠</strong><br>
-<strong>Don't forget update time every month in line 37</strong><br>
+
 <strong>Don't forget check online tools in line 1081 and 3256</strong><br>
 
 <h2>Version</h2>
-<strong>Current version is 2.0</strong>
+<strong>Current version is 2.1</strong>
 <strong>What's New </strong>
+<p>• Wordpress Levo-Slideshow 2.3 - Arbitrary File Upload<p>
+<p>• GS-Dorker<p>
+<p>• speed up<p>
+<p>• Bug fixes<p>
+<strong>version 2.0</strong>
 <p>• speed up<p>
 <p>• Bug fixes<p>
 
