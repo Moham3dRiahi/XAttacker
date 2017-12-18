@@ -57,7 +57,7 @@ X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 [+] PHP Event Calendar  
 [+] Synoptic  
 [+] Wp Shop  
-[+] Content Injection 
+[+] Content Injection
 
 <b>[2] Joomla<br>
 
@@ -71,9 +71,9 @@ X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 [+] Com Blog  
 [+] Com Users  
 [+] Com Weblinks<br>
-[+] mod_simplefileupload 
+[+] mod_simplefileupload
 
-<b>[3] DruPal<br> 
+<b>[3] DruPal<br>
 
 [+] Add Admin
 
@@ -133,12 +133,8 @@ SQL injection
 </tbody></table>
 <h2>Example</h2>
 <code>perl XAttacker.pl -l list.txt</code>
-<br><br><strong>for coloring in windows Add This Line</strong><br>
-<code>use Win32::Console::ANSI;</code>
-<br><img src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" data-canonical-src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" style="max-width:100%;">
 
 <strong>⚠ Warning ⚠</strong><br>
-<strong>Don't forget update time every month in line 37</strong><br>
 <strong>Don't forget check online tools in line 1081 and 3256</strong><br>
 
 <h2>Version</h2>
