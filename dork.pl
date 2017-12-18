@@ -1,9 +1,8 @@
 #!/usr/bin/perl
 
 #GS-Dorker | Coded By Fallag Gassrini | Tunisian Fallaga Team
-#don't Change my Fucking Rights
 
-#past here
+if ($^O =~ /MSWin32/) { use Win32::Console::ANSI; }
 use LWP::UserAgent;
 use HTTP::Request::Common;
 use Term::ANSIColor;
@@ -12,12 +11,11 @@ use HTTP::Request::Common qw(GET);
 $ag = LWP::UserAgent->new();
 $ag->agent("Mozilla/5.0 (X11; U; Linux i686; en-US; rv:0.9.3) Gecko/20010801");
 $ag->timeout(10);
-use Win32::Console::ANSI;
+
 
 $list= "Sites.txt";
 if ($^O =~ /MSWin32/) {system("cls"); }else { system("clear"); }
-my $year = "2017";
-my $month = "11";
+
 my $datetime    = localtime;
 
 system("title GS-Dorker | Coded By Fallag Gassrini");
@@ -50,7 +48,7 @@ print q(
 
 print color('reset');
 print "                       ";
-print colored ("[ X Attacker v2.0 ]",'white on_red');  
+print colored ("[ X Attacker v2.1 ]",'white on_red');  
 print colored ("[ Coded By Mohamed Riahi ]\n",'white on_red');
 print "                           ";
 print colored ("[ Start At $datetime ]",'white on_red'),"\n\n";
