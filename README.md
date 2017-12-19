@@ -144,7 +144,7 @@ SQL injection
 <hr>
 <strong>⚠ Warning ⚠</strong><br>
 
-<strong>Don't forget check online tools in line 1081 and 3256</strong><br>
+<strong>Don't forget check online tools in line 1145 and 3320</strong><br>
 <hr>
 <h2>Version</h2>
 <strong>Current version is 2.1</strong>
