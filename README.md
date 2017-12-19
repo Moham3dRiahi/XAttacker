@@ -138,11 +138,11 @@ SQL injection
 <p>if you don't have list websites run the tool with this command<p>
 <code>perl XAttacker.pl</code>
 <hr>
-<br><br><strong>for coloring in windows Add This Line</strong><br>
+<strong>for coloring in windows Add This Line</strong><br>
 <code>use Win32::Console::ANSI;</code>
 <br><img src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" data-canonical-src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" style="max-width:100%;">
 <hr>
-<br><strong>⚠ Warning ⚠</strong><br>
+<strong>⚠ Warning ⚠</strong><br>
 
 <strong>Don't forget check online tools in line 1081 and 3256</strong><br>
 <hr>
