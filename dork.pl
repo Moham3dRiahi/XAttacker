@@ -2,11 +2,9 @@
 
 #GS-Dorker | Coded By Fallag Gassrini | Tunisian Fallaga Team
 
-if ($^O =~ /MSWin32/) { use Win32::Console::ANSI; }
 use LWP::UserAgent;
 use HTTP::Request::Common;
 use Term::ANSIColor;
-use Win32::Console::ANSI;
 use HTTP::Request::Common qw(GET);
 $ag = LWP::UserAgent->new();
 $ag->agent("Mozilla/5.0 (X11; U; Linux i686; en-US; rv:0.9.3) Gecko/20010801");
