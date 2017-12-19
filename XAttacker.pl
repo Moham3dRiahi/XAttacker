@@ -3,7 +3,6 @@
 #Coded By Mohamed Riahi 10/10/2017
 #don't Change my Rights
 
-if ($^O =~ /MSWin32/) { use Win32::Console::ANSI; }
 use Getopt::Long;
 use HTTP::Request;
 use LWP::UserAgent;
