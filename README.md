@@ -1,25 +1,9 @@
-<pre>
+<h1>XAttacker Tool</h1>
+<p><a href="https://github.com/Moham3dRiahi/XAttacker"><img src="https://img.shields.io/badge/XAttacker-2.1-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/XAttacker-2.1-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
+<a href="https://github.com/Moham3dRiahi/XAttacker"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
+<a href="https://github.com/Moham3dRiahi/XAttacker"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
+<p>X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter<br>You can use this tool on your website to check the security of your website by finding the vulnerability in your website or you can use this tool to Get Shells | Sends | Deface | cPanels | Databases</p>
 
-             .o oOOOOOOOo                                            OOOo
-             Ob.OOOOOOOo  OOOo.      oOOo.                      .adOOOOOOO
-             OboO"""""""""""".OOo. .oOOOOOo.    OOOo.oOOOOOo.."""""""""'OO
-             OOP.oOOOOOOOOOOO "POOOOOOOOOOOo.   `"OOOOOOOOOP,OOOOOOOOOOOB'
-             `O'OOOO'     `OOOOo"OOOOOOOOOOO` .adOOOOOOOOO"oOOO'    `OOOOo
-             .OOOO'            `OOOOOOOOOOOOOOOOOOOOOOOOOO'            `OO
-             OOOOO                 '"OOOOOOOOOOOOOOOO"`                oOO
-            oOOOOOba.                .adOOOOOOOOOOba               .adOOOOo.
-           oOOOOOOOOOOOOOba.    .adOOOOOOOOOO@^OOOOOOOba.     .adOOOOOOOOOOOO
-          OOOOOOOOOOOOOOOOO.OOOOOOOOOOOOOO"`  '"OOOOOOOOOOOOO.OOOOOOOOOOOOOO
-          "OOOO"       "YOoOOOOMOIONODOO"`  .   '"OOROAOPOEOOOoOY"     "OOO"
-             Y           'OOOOOOOOOOOOOO: .oOOo. :OOOOOOOOOOO?'         :`
-             :            .oO%OOOOOOOOOOo.OOOOOO.oOOOOOOOOOOOO?
-                          oOOP"%OOOOOOOOoOOOOOOO?oOOOOO?OOOO"OOo
-                          '%o  OOOO"%OOOO%"%OOOOO"OOOOOO"OOO':
-                               `$"  `OOOO' `O"Y ' `OOOO'  o
-                                      OP"          : o
-                       [ X Attacker v2.0 ][ Coded By Mohamed Riahi ]
-                           [ Start At Tue Nov  7 12:30:48 2017 ]
-</pre>
 <h2>Installation</h2>
 <code>git clone https://github.com/Moham3dRiahi/XAttacker.git</code><br><br>
 <h2>X Attacker</h2>
@@ -146,11 +130,15 @@ SQL injection
 
 <strong>Don't forget check online tools in line 1145 and 3320</strong><br>
 <hr>
+<h2>Special Thanks to</h2>
+<li>Thanks to allah ❤</li>
+<li>Fallag Gassrini <a href="https://www.facebook.com/gassrini.gov.tn">https://www.facebook.com/gassrini.gov.tn</a></li>
+<li>Mehedi Shakeel (SSTec Tutorials) <a href="https://youtu.be/ckHIm4-_Zbs">https://www.youtube.com/SSTec%20Tutorials</a></li>
 <h2>Version</h2>
 <strong>Current version is 2.1</strong>
 <strong>What's New </strong>
 <p>• Wordpress Levo-Slideshow 2.3 - Arbitrary File Upload<p>
-<p>• GS-Dorker<p>
+<p>• GSDorker<p>
 <p>• speed up<p>
 <p>• Bug fixes<p>
 <strong>version 2.0</strong>
