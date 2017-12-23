@@ -130,6 +130,12 @@ SQL injection
 
 <strong>Don't forget check online tools in line 1145 and 3320</strong><br>
 <hr>
+<h2>BUG ?</h2>
+<ul>
+<li>Submit new issue</li>
+<li>pm me in gmail</li>
+<li>do you want ask about all my tools ? you can add me in <a href="https://fb.me/moham3driahi">https://fb.me/moham3driahi</a></li>
+</ul>
 <h2>Special Thanks to</h2>
 <li>Thanks to allah ❤</li>
 <li>Fallag Gassrini <a href="https://www.facebook.com/gassrini.gov.tn">https://www.facebook.com/gassrini.gov.tn</a></li>
