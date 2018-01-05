@@ -3098,7 +3098,7 @@ print color('bold red'),"[";
 print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"Com Fabrik2";
-print color('bold white')," ....................... ";
+print color('bold white')," ...................... ";
 print color('bold green'),"VULN\n";
 print color('bold green')," [";
 print color('bold red'),"+";
@@ -3113,7 +3113,7 @@ print color('bold red'),"[";
 print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"Com Fabrik2";
-print color('bold white')," ....................... ";
+print color('bold white')," ...................... ";
 print color('bold red'),"NOt VULN\n";
 }
 }
