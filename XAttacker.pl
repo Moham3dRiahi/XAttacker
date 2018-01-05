@@ -156,8 +156,11 @@ print color('bold white'),"\n[$a] $site - ";
   comjce();
   comedia();
   comjdownloads();
+  comjdownloadsdef();
   comfabrik();
+  comfabrikdef();
   comfabrik2();
+  comfabrikdef2();
   foxcontact();
   comadsmanager();
   comblog();
@@ -2945,7 +2948,6 @@ print color('bold red'),"] ";
 print color('bold white'),"Com Jdownloads";
 print color('bold white')," .................... ";
 print color('bold red'),"NOt VULN\n";
-comjdownloadsdef();
 }
 }
 
@@ -3023,7 +3025,7 @@ print color('bold red'),"+";
 print color('bold green'),"] ";
 print color('bold white'),"Shell Uploaded Successfully\n";
 print color('bold white'),"  [Link] => $comfabrikupp\n";
-open (TEXT, '>>Result/index.txt');
+open (TEXT, '>>Result/shells.txt');
 print TEXT "$comfabrikupp\n";
 close (TEXT);
 }else{
@@ -3064,7 +3066,7 @@ print color('bold red'),"+";
 print color('bold green'),"] ";
 print color('bold white'),"File Uploaded Successfully\n";
 print color('bold white'),"  [Link] => $comfabrikup\n";
-open (TEXT, '>>Result/shells.txt');
+open (TEXT, '>>Result/index.txt');
 print TEXT "$comfabrikup\n";
 close (TEXT);
 }else{
@@ -3096,7 +3098,7 @@ print color('bold red'),"[";
 print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"Com Fabrik2";
-print color('bold white')," ........................ ";
+print color('bold white')," ....................... ";
 print color('bold green'),"VULN\n";
 print color('bold green')," [";
 print color('bold red'),"+";
@@ -3111,9 +3113,8 @@ print color('bold red'),"[";
 print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"Com Fabrik2";
-print color('bold white')," ........................ ";
+print color('bold white')," ....................... ";
 print color('bold red'),"NOt VULN\n";
-comfabrikdef2();
 }
 }
 
