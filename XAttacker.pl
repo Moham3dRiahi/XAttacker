@@ -93,7 +93,6 @@ print color('bold red'),"] ";
 print color("bold white"),"Path your websites list : ";
 $list=<STDIN>;
 chomp $list;
-system("perl XAttacker.pl -l $list");
 }
 if($number eq '2')
 {
