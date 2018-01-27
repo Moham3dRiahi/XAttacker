@@ -125,7 +125,7 @@ $link=$#TARGETS + 1;
 
 banner();
 print color("bold white"), "[+] Total sites : ";
-print color("bold red"), "".scalar(@TARGETS)."\n\n";
+print color("bold red"), "".scalar(@TARGETS)."\n\n\n";
 print color('reset');
 
 OUTER: foreach $site(@TARGETS){
@@ -146,8 +146,8 @@ my $lokomediacmstow = $ua->get("$loko")->content;
 my $cms = $ua->get("$site")->content;
 
 if($cms =~/<script type=\"text\/javascript\" src=\"\/media\/system\/js\/mootools.js\"><\/script>| \/media\/system\/js\/|com_content|Joomla!/) {
-print color('bold white'),"\n[$a] $site - ";
-    print color("bold green"), "Joomla\n\n";
+print color('bold white'),"[$a] $site - ";
+    print color("bold green"), "Joomla\n\n\n";
     print color('reset');
     open(save, '>>tmp/joomla.txt');
     print save "$site\n";   
@@ -168,8 +168,8 @@ print color('bold white'),"\n[$a] $site - ";
   mod_simplefileupload();
 }
 elsif($cms =~/wp-content|wordpress|xmlrpc.php/) {
-    print color('bold white'),"\n[$a] $site - ";
-    print color("bold green"), "WordPress\n\n"; 
+    print color('bold white'),"[$a] $site - ";
+    print color("bold green"), "WordPress\n\n\n"; 
     print color('reset'); 
     open(save, '>>tmp/Wordpress.txt');
     print save "$site\n"; 
@@ -202,8 +202,8 @@ elsif($cms =~/wp-content|wordpress|xmlrpc.php/) {
     wpinjection();
 }
 elsif($cms =~/Drupal|drupal|sites\/all|drupal.org/) {
-    print color('bold white'),"\n[$a] $site - ";
-    print color("bold green"), "DruPal\n\n";
+    print color('bold white'),"[$a] $site - ";
+    print color("bold green"), "DruPal\n\n\n";
     print color('reset');
     open(save, '>>tmp/drupal.txt');
     print save "$site\n";   
@@ -211,8 +211,8 @@ elsif($cms =~/Drupal|drupal|sites\/all|drupal.org/) {
 drupal();
 }
 elsif($cms =~/Prestashop|prestashop/) {
-    print color('bold white'),"\n[$a] $site - ";
-    print color("bold green"), "Prestashop\n\n";
+    print color('bold white'),"[$a] $site - ";
+    print color("bold green"), "Prestashop\n\n\n";
     print color('reset');
     open(save, '>>tmp/Prestashop.txt');
     print save "$site\n";   
@@ -250,8 +250,8 @@ masseditproduct();
 }
 
 elsif($lokomediacms =~/image\/gif/) {
-print color('bold white'),"\n[$a] $site - ";
-    print color("bold green"), "Lokomedia\n\n";
+print color('bold white'),"[$a] $site - ";
+    print color("bold green"), "Lokomedia\n\n\n";
     print color('reset');
     open(save, '>>tmp/lokomedia.txt');
     print save "$site\n";   
@@ -259,8 +259,8 @@ print color('bold white'),"\n[$a] $site - ";
     lokomedia();
 }
 elsif($lokomediacmstow =~/lokomedia/) {
-print color('bold white'),"\n[$a] $site - ";
-    print color("bold green"), "Lokomedia\n\n";
+print color('bold white'),"[$a] $site - ";
+    print color("bold green"), "Lokomedia\n\n\n";
     print color('reset');
     open(save, '>>tmp/lokomedia.txt');
     print save "$site\n";   
@@ -269,8 +269,8 @@ print color('bold white'),"\n[$a] $site - ";
 }
 
 else{
-print color('bold white'),"\n[$a] $site - ";
-    print color("bold green"), "Unknown\n\n"; 
+print color('bold white'),"[$a] $site - ";
+    print color("bold green"), "Unknown\n\n\n"; 
     open(save, '>>tmp/Unknown.txt');
     print color('reset'); 
     print save "$site\n";   
