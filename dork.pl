@@ -66,7 +66,7 @@ print color("bold white"),"Mass Site Grab |> By Ip or Websites List\n";
 print color('bold red'),"[";
 print color('bold green'),"4";
 print color('bold red'),"] ";
-print color("bold white"),"Mass Site Grab |> Range Ip by Ip or Wbesite list\n";
+print color("bold white"),"Mass Site Grab |> Range Ip by Ip or Website list\n";;
 print color('bold red'),"[";
 print color('bold green'),"+";
 print color('bold red'),"] ";
