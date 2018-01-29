@@ -25,4 +25,4 @@ cpan install HTTP::Response
 cpan install Term::ANSIColor
 cpan install URI::URL
 cpan install IO::Socket::INET
-cpan install Try::Tin
+cpan install Try::Tiny
