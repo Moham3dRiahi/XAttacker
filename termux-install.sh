@@ -1,5 +1,7 @@
 #!/bin/bash 
-pkg install -y wget perl make
+apt install wget
+apt install perl
+apt install make
 wget http://search.cpan.org/CPAN/authors/id/O/OA/OALDERS/HTTP-Message-6.14.tar.gz
 tar zxf HTTP-Message-6.14.tar.gz
 cd HTTP-Message-6.14
