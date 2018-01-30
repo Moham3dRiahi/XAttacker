@@ -20,3 +20,10 @@ if [ "$PREFIX" = "/data/data/com.termux/files/usr" ]; then
     cpan install URI::URL
     cpan install IO::Socket::INET
     cpan install Try::Tiny
+    else
+    INSTALL_DIR="/usr/share/doc/fsociety"
+    BIN_DIR="/usr/bin/"
+    BASH_PATH="/bin/bash"
+    TERMUX=false
+    apt-get install -y git python
+fi
