@@ -23,4 +23,4 @@ cpan install Term::ANSIColor
 cpan install URI::URL
 cpan install IO::Socket::INET
 cpan install Try::Tiny
-echo "[✔] Tool installed successfully! [✔]";
+echo "[✔] Done! [✔]";
