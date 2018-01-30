@@ -23,6 +23,4 @@ cpan install Term::ANSIColor
 cpan install URI::URL
 cpan install IO::Socket::INET
 cpan install Try::Tiny
-echo "       All is done!!";
-echo "   You can run tool by typing";
-echo "      perl XAttacker.pl";
+echo "[✔] Tool installed successfully! [✔]";
