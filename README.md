@@ -161,15 +161,10 @@ Follow This Video [Psyco Tutorials](https://www.youtube.com/watch?v=)
 ## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 ```bash
 Download Perl
-
 Download XAttacker
-
 Extract XAttacker into Desktop
-
 Open CMD and type the following commands:
-
 cd Desktop/XAttacker-master/
-
 perl XAttacker.pl
 ```
 <h2>Version</h2>
