@@ -156,7 +156,7 @@ chmod +x termux-install.sh
 bash termux-install.sh
 ```
 
-Follow This Video [Psyco Tutorials](https://www.youtube.com/watch?v=)
+Follow This Video [Psyco Tutorials](https://www.youtube.com/watch?v=3QezrdBW1D8)
 
 ## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
 ```bash
