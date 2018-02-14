@@ -1569,7 +1569,7 @@ print color('bold green')," [";
 print color('bold red'),"+";
 print color('bold green'),"] ";
 print color('bold white'),"Injected Successfully\n";
-print color('bold white'),"  [Link] => $urljson\n";
+print color('bold white'),"  [Link] => $urljson\n\n";
 open (TEXT, '>>Result/index.txt');
 print TEXT "$urljson\n";
 close (TEXT);
@@ -1579,11 +1579,10 @@ print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"Content Injection";
 print color('bold white')," ................. ";
-print color('bold red'),"NOt VULN\n";
+print color('bold red'),"NOt VULN\n\n";
 }
 }
 }
-
 
 
 ######################################################
