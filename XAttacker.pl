@@ -2545,7 +2545,7 @@ print color('bold green')," [";
 print color('bold red'),"+";
 print color('bold green'),"] ";
 print color('bold white'),"Shell Uploaded Successfully\n";
-print color('bold white'),"  [Link] => $masseditproductup\n";
+print color('bold white'),"  [Link] => $masseditproductup\n\n";
 open (TEXT, '>>Result/Shells.txt');
 print TEXT "$masseditproductup\n";
 close (TEXT);
@@ -2555,7 +2555,7 @@ print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"masseditproduct";
 print color('bold white')," ................... ";
-print color('bold red'),"NOt VULN\n";
+print color('bold red'),"NOt VULN\n\n";
 }
 }
 
