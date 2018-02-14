@@ -147,7 +147,7 @@ my $cms = $ua->get("$site")->content;
 
 if($cms =~/<script type=\"text\/javascript\" src=\"\/media\/system\/js\/mootools.js\"><\/script>| \/media\/system\/js\/|com_content|Joomla!/) {
     print color('bold white'),"[$a] $site - ";
-    print color("bold green"), "Joomla\n\n\n";
+    print color("bold green"), "Joomla\n\n";
     print color('reset');
     open(save, '>>tmp/joomla.txt');
     print save "$site\n";   
@@ -169,7 +169,7 @@ if($cms =~/<script type=\"text\/javascript\" src=\"\/media\/system\/js\/mootools
 }
 elsif($cms =~/wp-content|wordpress|xmlrpc.php/) {
     print color('bold white'),"[$a] $site - ";
-    print color("bold green"), "WordPress\n\n\n"; 
+    print color("bold green"), "WordPress\n\n"; 
     print color('reset'); 
     open(save, '>>tmp/Wordpress.txt');
     print save "$site\n"; 
@@ -203,7 +203,7 @@ elsif($cms =~/wp-content|wordpress|xmlrpc.php/) {
 }
 elsif($cms =~/Drupal|drupal|sites\/all|drupal.org/) {
     print color('bold white'),"[$a] $site - ";
-    print color("bold green"), "DruPal\n\n\n";
+    print color("bold green"), "DruPal\n\n";
     print color('reset');
     open(save, '>>tmp/drupal.txt');
     print save "$site\n";   
@@ -212,14 +212,11 @@ drupal();
 }
 elsif($cms =~/Prestashop|prestashop/) {
     print color('bold white'),"[$a] $site - ";
-    print color("bold green"), "Prestashop\n\n\n";
+    print color("bold green"), "Prestashop\n\n";
     print color('reset');
     open(save, '>>tmp/Prestashop.txt');
     print save "$site\n";   
     close(save);
-
-
-
 columnadverts();
 soopamobile();
 soopabanners();
@@ -248,10 +245,9 @@ tdpsthemeoptionpanel();
 psmodthemeoptionpanel();
 masseditproduct();
 }
-
 elsif($lokomediacms =~/image\/gif/) {
 print color('bold white'),"[$a] $site - ";
-    print color("bold green"), "Lokomedia\n\n\n";
+    print color("bold green"), "Lokomedia\n\n";
     print color('reset');
     open(save, '>>tmp/lokomedia.txt');
     print save "$site\n";   
@@ -260,7 +256,7 @@ print color('bold white'),"[$a] $site - ";
 }
 elsif($lokomediacmstow =~/lokomedia/) {
 print color('bold white'),"[$a] $site - ";
-    print color("bold green"), "Lokomedia\n\n\n";
+    print color("bold green"), "Lokomedia\n\n";
     print color('reset');
     open(save, '>>tmp/lokomedia.txt');
     print save "$site\n";   
@@ -270,7 +266,7 @@ print color('bold white'),"[$a] $site - ";
 
 else{
 print color('bold white'),"[$a] $site - ";
-    print color("bold green"), "Unknown\n\n\n"; 
+    print color("bold green"), "Unknown\n\n"; 
     open(save, '>>tmp/Unknown.txt');
     print color('reset'); 
     print save "$site\n";   
@@ -2797,7 +2793,7 @@ print color('bold green'),"Found!\n";
 print color('bold green')," [";
 print color('bold red'),"+";
 print color('bold green'),"]  ";
-print color('bold white'),"URL : $pathone\n";
+print color('bold white'),"URL : $pathone\n\n";
 open (TEXT, '>>Result/databases.txt');
 print TEXT "\nURL : $pathone";
 close (TEXT);
@@ -2807,7 +2803,7 @@ print color('bold green')," [";
 print color('bold red'),"+";
 print color('bold green'),"]  ";
 print color('bold white'),"Admin Panel : ";
-print color('bold red'),"NOt FOUND\n";
+print color('bold red'),"NOt FOUND\n\n";
 }
 }
 
