@@ -1521,7 +1521,7 @@ print color('bold green')," [";
 print color('bold red'),"+";
 print color('bold green'),"] ";
 print color('bold white'),"Shell Uploaded Successfully\n";
-print color('bold white'),"  [Link] => $wpshopup\n\n";
+print color('bold white'),"  [Link] => $wpshopup\n";
 open (TEXT, '>>Result/Shells.txt');
 print TEXT "$wpshopup\n";
 close (TEXT);
@@ -1531,7 +1531,7 @@ print color('bold green'),"+";
 print color('bold red'),"] ";
 print color('bold white'),"Wp Shop";
 print color('bold white')," ........................... ";
-print color('bold red'),"NOt VULN\n\n";
+print color('bold red'),"NOt VULN\n";
 }
 }
 # this exploit Content Injection coded by fallag gassrini <3
