@@ -119,10 +119,7 @@ SQL injection
 <code>perl XAttacker.pl -l list.txt</code>
 <p>if you don't have list websites run the tool with this command<p>
 <code>perl XAttacker.pl</code>
-<hr>
-<strong>for coloring in windows Add This Line</strong><br>
-<code>use Win32::Console::ANSI;</code>
-<br><img src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" data-canonical-src="https://media.giphy.com/media/hVTXBi1FCdL0I/giphy.gif" style="max-width:100%;">
+
 <hr>
 <strong>⚠ Warning ⚠</strong><br>
 
