@@ -3,7 +3,7 @@
 #Coded By Mohamed Riahi 10/10/2017
 #don't Change my Rights
 
-#paste here
+use if $^O eq "MSWin32", Win32::Console::ANSI;
 use Getopt::Long;
 use HTTP::Request;
 use LWP::UserAgent;
