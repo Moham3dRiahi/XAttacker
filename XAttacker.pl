@@ -3276,7 +3276,7 @@ print color('bold green'),"VULN\n";
 print color('bold green')," [";
 print color('bold red'),"+";
 print color('bold green'),"] ";
-print color('bold white'),"Exploit It It Manual\n";
+print color('bold white'),"Exploit It Manual\n";
     open(save, '>>Result/vulntargets.txt');   
     print save "[Com Users] $site\n";   
     close(save);
