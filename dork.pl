@@ -2,6 +2,7 @@
 
 #GS-Dorker | Coded By Fallag Gassrini | Tunisian Fallaga Team
 
+use if $^O eq "MSWin32", Win32::Console::ANSI;
 use LWP::UserAgent;
 use HTTP::Request::Common;
 use Term::ANSIColor;
