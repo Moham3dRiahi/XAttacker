@@ -1,5 +1,5 @@
 <h1>XAttacker Tool</h1>
-<p><a href="https://github.com/Moham3dRiahi/XAttacker"><img src="https://img.shields.io/badge/XAttacker-2.1-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/XAttacker-2.1-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
+<p><a href="https://github.com/Moham3dRiahi/XAttacker"><img src="https://img.shields.io/badge/XAttacker-2.5-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/XAttacker-2.5-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
 <a href="https://github.com/Moham3dRiahi/XAttacker"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
 <a href="https://github.com/Moham3dRiahi/XAttacker"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
 <p>X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter<br>You can use this tool on your website to check the security of your website by finding the vulnerability in your website or you can use this tool to Get Shells | Sends | Deface | cPanels | Databases</p>
