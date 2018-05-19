@@ -41,14 +41,14 @@ X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 [+] Synoptic  
 [+] Wp Shop  
 [+] Content Injection 
-<br>[+] Cubed Theme  **NEW**
-<br>[+] Rightnow Theme  **NEW**
-<br>[+] Konzept  **NEW**
-<br>[+] Omni Secure Files  **NEW**
-<br>[+] Pitchprint  **NEW**
-<br>[+] Satoshi  **NEW**
-<br>[+] Pinboard  **NEW**
-<br>[+] Barclaycart  **NEW**
+<br>[+] Cubed Theme  `NEW`
+<br>[+] Rightnow Theme  `NEW`
+<br>[+] Konzept  `NEW`
+<br>[+] Omni Secure Files  `NEW`
+<br>[+] Pitchprint  `NEW`
+<br>[+] Satoshi  `NEW`
+<br>[+] Pinboard  `NEW`
+<br>[+] Barclaycart  `NEW`
 
 <b>[2] Joomla<br>
 
@@ -63,17 +63,17 @@ X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 [+] Com Users  
 [+] Com Weblinks<br>
 [+] mod_simplefileupload 
-<br>[+] Com Facileforms  **NEW**
-<br>[+] Com Jwallpapers **NEW**
-<br>[+] Com Extplorer **NEW**
-<br>[+] Com Rokdownloads **NEW**
-<br>[+] Com Sexycontactform **NEW**
-<br>[+] Com Jbcatalog **NEW**
+<br>[+] Com Facileforms  `NEW`
+<br>[+] Com Jwallpapers `NEW`
+<br>[+] Com Extplorer `NEW`
+<br>[+] Com Rokdownloads `NEW`
+<br>[+] Com Sexycontactform `NEW`
+<br>[+] Com Jbcatalog `NEW`
 
 <b>[3] DruPal<br> 
 
 [+] Add Admin
-<br>[+] Drupalgeddon **NEW**<br><br>
+<br>[+] Drupalgeddon `NEW`<br><br>
 [4] PrestaShop<br>
 
 [+] columnadverts  
@@ -103,7 +103,7 @@ X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 [+] tdpsthemeoptionpanel  
 [+] psmodthemeoptionpanel  
 [+] masseditproduct
-<br>[+] blocktestimonial **NEW**<br>
+<br>[+] blocktestimonial `NEW`<br>
 
 <b>[5] Lokomedia<br>
 
@@ -180,9 +180,25 @@ cd Desktop/XAttacker-master/
 perl XAttacker.pl
 ```
 <h2>Version</h2>
-<strong>Current version is 2.1</strong>
+<strong>Current version is 2.5</strong>
 <strong>What's New </strong>
-<p>• Wordpress Levo-Slideshow 2.3 - Arbitrary File Upload<p>
-<p>• GSDorker<p>
-<p>• speed up<p>
-<p>• Bug fixes<p>
+• blocktestimonial Exploit
+<br>• Cubed Theme Exploit
+<br>• Rightnow Theme Exploit
+<br>• Konzept Exploit
+<br>• Omni Secure Files Exploit
+<br>• Pitchprint Exploit
+<br>• Satoshi Exploit
+<br>• Pinboard Exploit
+<br>• Barclaycart Exploit
+<br>• Com Facileforms Exploit
+<br>• Com Jwallpapers Exploit
+<br>• Com Extplorer Exploit
+<br>• Com Rokdownloads Exploit
+<br>• Com Sexycontactform Exploit
+<br>• Com Jbcatalog Exploit
+<br>• Com Blog Exploit
+<br>• Com Foxcontact Exploit
+<br>• Drupal Geddon Exploit
+<br>• Speed up
+<br>• Bug fixes
