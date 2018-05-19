@@ -41,14 +41,14 @@ X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 [+] Synoptic  
 [+] Wp Shop  
 [+] Content Injection 
-[+] Cubed Theme  **NEW**
-[+] Rightnow Theme  **NEW**
-[+] Konzept  **NEW**
-[+] Omni Secure Files  **NEW**
-[+] Pitchprint  **NEW**
-[+] Satoshi  **NEW**
-[+] Pinboard  **NEW**
-[+] Barclaycart  **NEW**
+<br>[+] Cubed Theme  **NEW**
+<br>[+] Rightnow Theme  **NEW**
+<br>[+] Konzept  **NEW**
+<br>[+] Omni Secure Files  **NEW**
+<br>[+] Pitchprint  **NEW**
+<br>[+] Satoshi  **NEW**
+<br>[+] Pinboard  **NEW**
+<br>[+] Barclaycart  **NEW**
 
 <b>[2] Joomla<br>
 
@@ -63,17 +63,17 @@ X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 [+] Com Users  
 [+] Com Weblinks<br>
 [+] mod_simplefileupload 
-[+] Com Facileforms  **NEW**
-[+] Com Jwallpapers **NEW**
-[+] Com Extplorer **NEW**
-[+] Com Rokdownloads **NEW**
-[+] Com Sexycontactform **NEW**
-[+] Com Jbcatalog **NEW**
+<br>[+] Com Facileforms  **NEW**
+<br>[+] Com Jwallpapers **NEW**
+<br>[+] Com Extplorer **NEW**
+<br>[+] Com Rokdownloads **NEW**
+<br>[+] Com Sexycontactform **NEW**
+<br>[+] Com Jbcatalog **NEW**
 
 <b>[3] DruPal<br> 
 
 [+] Add Admin
-[+] Drupalgeddon **NEW**
+<br>[+] Drupalgeddon **NEW**
 <b>[4] PrestaShop<br>
 
 [+] columnadverts  
@@ -103,7 +103,7 @@ X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 [+] tdpsthemeoptionpanel  
 [+] psmodthemeoptionpanel  
 [+] masseditproduct
-[+] blocktestimonial **NEW**
+<br>[+] blocktestimonial **NEW**<br>
 
 <b>[5] Lokomedia<br>
 
