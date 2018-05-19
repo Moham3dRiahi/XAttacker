@@ -16,3 +16,4 @@
 * v2.5 - Add Com Jbcatalog Exploit
 * v2.5 - Update Com Blog Exploit
 * v2.5 - Update Com Foxcontact Exploit
+* v2.5 - Add Drupal Geddon Exploit
