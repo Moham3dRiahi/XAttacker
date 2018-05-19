@@ -136,14 +136,9 @@ SQL injection
 <code>perl XAttacker.pl</code>
 
 <hr>
-<strong>⚠ Warning ⚠</strong><br>
-
-<strong>Don't forget check online tools in line 1145 and 3320</strong><br>
-<hr>
 <h2>BUG ?</h2>
 <ul>
 <li>Submit new issue</li>
-<li>pm me in gmail</li>
 <li>do you want ask about all my tools ? you can add me in <a href="https://fb.me/mohamed.riahi.official.account">https://fb.me/mohamed.riahi.official.account</a></li>
 </ul>
 
