@@ -9,9 +9,9 @@
 X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 <img src="https://i.imgur.com/DxZyQit.jpg" data-canonical-src="https://i.imgur.com/DxZyQit.jpg" style="max-width:100%;">
 
-<b>[+] Auto Cms Detect
+<b>[+] Auto Cms Detect<b>
 
-<b>[1] WordPress :<br>
+<b>[1] WordPress :<b><br>
 
 [+] Adblock Blocker  <br>
 [+] WP All Import <br>
@@ -73,8 +73,8 @@ X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
 <b>[3] DruPal<br> 
 
 [+] Add Admin
-<br>[+] Drupalgeddon **NEW**
-<b>[4] PrestaShop<br>
+<br>[+] Drupalgeddon **NEW**<br><br>
+[4] PrestaShop<br>
 
 [+] columnadverts  
 [+] soopamobile  
