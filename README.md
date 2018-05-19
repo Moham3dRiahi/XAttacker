@@ -182,7 +182,7 @@ perl XAttacker.pl
 <h2>Version</h2>
 <strong>Current version is 2.5</strong>
 <strong>What's New </strong>
-• blocktestimonial Exploit
+<br>• blocktestimonial Exploit
 <br>• Cubed Theme Exploit
 <br>• Rightnow Theme Exploit
 <br>• Konzept Exploit
