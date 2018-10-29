@@ -137,8 +137,7 @@ SQL injection
 
 <hr>
 <h2>BUG ?</h2>
-<ul>
-<li>Submit new issue</li></ul>
+<ul><li>Submit new issue</li></ul><hr>
 <h2>📧 Contact</h2>
 <li>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On ICQ : 712653075</li>
 <hr>
