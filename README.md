@@ -138,9 +138,10 @@ SQL injection
 <hr>
 <h2>BUG ?</h2>
 <ul>
-<li>Submit new issue</li>
-<li>do you want ask about all my tools ? you can add me in <a href="https://fb.me/mohamed.riahi.official.account">https://fb.me/mohamed.riahi.official.account</a></li>
-</ul>
+<li>Su<hr>Submit new issue</li></ul>
+<h2>📧 Contact</h2>
+<li>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On ICQ : 712653075</li>
+<hr>
 
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
