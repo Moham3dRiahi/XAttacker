@@ -147,6 +147,7 @@ SQL injection
 ```bash
 git clone https://github.com/Moham3dRiahi/XAttacker.git
 cd XAttacker
+cpan install HTTP::Request LWP::UserAgent
 perl XAttacker.pl
 ```
 
