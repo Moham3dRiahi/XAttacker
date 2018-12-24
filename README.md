@@ -1,13 +1,17 @@
-<h1>XAttacker Tool</h1>
-<p><a href="https://github.com/Moham3dRiahi/XAttacker"><img src="https://img.shields.io/badge/XAttacker-2.5-brightgreen.svg" alt="Version" data-canonical-src="https://img.shields.io/badge/XAttacker-2.5-brightgreen.svg?maxAge=259200" style="max-width:100%;"></a>
-<a href="https://github.com/Moham3dRiahi/XAttacker"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
-<a href="https://github.com/Moham3dRiahi/XAttacker"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
-<p>X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter<br>You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | Sends | Deface | cPanels | Databases</p>
+# XAttacker Tool
 
-<h2>X Attacker</h2>
+[![Version](https://img.shields.io/badge/XAttacker-2.5-brightgreen.svg)](https://github.com/Moham3dRiahi/XAttacker)
+[![Stage](https://img.shields.io/badge/Release-Stable-orange.svg)](https://github.com/Moham3dRiahi/XAttacker)
+[![Build](https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg)](https://github.com/Moham3dRiahi/XAttacker)
+[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#XAttacker)
+
+X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter<br>You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | Sends | Deface | cPanels | Databases
+
+## X Attacker
 
 X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
-<img src="https://i.imgur.com/DxZyQit.jpg" data-canonical-src="https://i.imgur.com/DxZyQit.jpg" style="max-width:100%;">
+
+![](https://i.imgur.com/DxZyQit.jpg)
 
 <b>[+] Auto Cms Detect<b>
 
