@@ -157,6 +157,7 @@ Follow This Video [SSTec Tutorials](https://www.youtube.com/watch?v=ckHIm4-_Zbs)
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```bash
+pkg install git
 git clone https://github.com/Moham3dRiahi/XAttacker.git
 cd XAttacker
 chmod +x termux-install.sh
