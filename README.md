@@ -3,10 +3,10 @@
 <a href="https://github.com/Moham3dRiahi/XAttacker"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
 <a href="https://github.com/Moham3dRiahi/XAttacker"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
 <p>XAttacker Tool Free Version☣ Website Vulnerability Scanner & Auto Exploiter<br>You can use this tool to check the security by finding the vulnerability in your website or you can use this tool to Get Shells | Sends | Deface | cPanels | Databases</p>
-<h2>📣 My New Private Tool 📣</h2>
-<a href="https://github.com/Moham3dRiahi/XAttacker/blob/master/Premium.md">XAttacker v10 Tool Premium</a>
+<hr><h2>📣 My New Private Tool 📣</h2>
+<a href="https://github.com/Moham3dRiahi/XAttacker/blob/master/Premium.md">[Finally🎉] Review XAttacker v10 Tool Premium</a>
 <hr>
-<h2>X Attacker</h2>
+<h2>XAttacker Free Vesion</h2>
 
 XAttacker Tool Free Version ☣ Website Vulnerability Scanner & Auto Exploiter
 <img src="https://i.imgur.com/DxZyQit.jpg" data-canonical-src="https://i.imgur.com/DxZyQit.jpg" style="max-width:100%;">
@@ -140,8 +140,11 @@ SQL injection
 <hr> 
 <h2>BUG ?</h2>
 <ul><li>Submit new issue</li></ul><hr>
+<hr>
 <h2>📧 Contact</h2>
-<li>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On ICQ : moham3driahi</li>
+<lh3>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On : </h3><br>
+ ICQ : moham3driahi <br>Telegram : moham3driahi <br>E-mail : moham3driahi@gmail.com
+<hr>
 <hr>
 
 
