@@ -180,9 +180,6 @@ Open CMD and type the following commands:
 cd Desktop/XAttacker-master/
 perl XAttacker.pl
 ```
-
-🔥Welcome to (https://t-shop.to) 🔥
-✅All tools available [Shells , cPanels, RDP, SSH, WHM, Mailers, Smtp, LEADS , COMBO, Sscripts, Methods, Scam Pages/Letters ...] for perfect prices✅
 <hr>
 
 <h2>Version</h2>
