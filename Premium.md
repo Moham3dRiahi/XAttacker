@@ -238,17 +238,17 @@ XAttacker v10 Tool Premium Vesion ☣ Website Vulnerability Scanner & Auto Explo
  <tr>
 <td>XAttacker v10 With 1 Month Key</td>
 <td>40 USD</td>
-<td><a href="https://shoppy.gg/product/P7X3uEt"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
+<td><a href="https://shoppy.gg/product/lk3eAzw"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
 </tr>
   <tr>
 <td>XAttacker v10 With 3 Months Key</td>
 <td>60 USD</td>
-<td><a href="https://shoppy.gg/product/KKinXZA"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
+<td><a href="https://shoppy.gg/product/tilkDRZ"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
 </tr>
   <tr>
 <td>XAttacker v10 With Lifetime Key</td>
 <td>100 USD</td>
-<td><a href="https://shoppy.gg/product/kxQcFAa"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
+<td><a href="https://shoppy.gg/product/R06cSge"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
 </tr>
 </tbody></table>
 <hr>
