@@ -1,4 +1,4 @@
-# XAttacker Tool
+# XAttacker Tool Free version
 
 [![Version](https://img.shields.io/badge/XAttacker-2.5-brightgreen.svg)](https://github.com/Moham3dRiahi/XAttacker)
 [![Stage](https://img.shields.io/badge/Release-Stable-orange.svg)](https://github.com/Moham3dRiahi/XAttacker)
@@ -10,6 +10,8 @@ X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter<br>You can us
 ## X Attacker
 
 X Attacker Tool ☣ Website Vulnerability Scanner & Auto Exploiter
+
+[XAttacker v10 Tool Premium version](https://github.com/Moham3dRiahi/XAttacker/blob/master/Premium.md)
 
 ![](https://i.imgur.com/DxZyQit.jpg)
 
@@ -139,12 +141,16 @@ SQL injection
 <p>if you don't have list websites run the tool with this command<p>
 <code>perl XAttacker.pl</code>
 
-<hr>
+<hr> 
 <h2>BUG ?</h2>
 <ul><li>Submit new issue</li></ul><hr>
-<h2>📧 Contact</h2>
-<li>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On ICQ : 712653075</li>
 <hr>
+<h2>📧 Contact</h2>
+<lh3>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On : </h3><br>
+ ICQ : moham3driahi <br>Telegram : moham3driahi <br>E-mail : moham3driahi@gmail.com
+<hr>
+<hr>
+
 
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
@@ -178,6 +184,8 @@ Open CMD and type the following commands:
 cd Desktop/XAttacker-master/
 perl XAttacker.pl
 ```
+<hr>
+
 <h2>Version</h2>
 <strong>Current version is 2.5</strong>
 <strong>What's New </strong>
