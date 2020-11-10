@@ -27,21 +27,21 @@ XAttacker v10 Tool Premium Vesion ☣ Website Vulnerability Scanner & Auto Explo
 <tr>
 <td>-mu</td>
 <td>--multi</td>
-<td>Multithread Mode</td>
+<td>Multithread Mode</td> 
 </tr>
 <tr>
-<td>-v</td>
-<td>--vuln</td>
+<td>-v</td> 
+<td>--vuln</td> 
 <td>Fixing A Vulnerability After GET ACCESS</td>
 </tr>
-<tr>
-<td>-r</td>
-<td>--Random</td>
-<td>Random Shell File Name</td>
-</tr>
-<tr>
-<td>-p</td>
-<td>--Proxy</td>
+<tr> 
+<td>-r</td> 
+<td>--Random</td> 
+<td>Random Shell File Name</td> 
+</tr> 
+<tr> 
+<td>-p</td> 
+<td>--Proxy</td> 
 <td>Connection With Proxy</td>
 </tr>
 <tr>
