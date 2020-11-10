@@ -9,7 +9,7 @@
 XAttacker v10 Tool Premium Vesion ☣ Website Vulnerability Scanner & Auto Exploiter
 <img src="https://i.ibb.co/LCysYy2/1.jpg" data-canonical-src="https://i.ibb.co/LCysYy2/1.jpg" style="max-width:50%;">
 
-<h2>Usage</h2>
+<h2>USAGE</h2>
 <table>
 <thead>
 <tr>
@@ -98,12 +98,12 @@ XAttacker v10 Tool Premium Vesion ☣ Website Vulnerability Scanner & Auto Explo
 <br>[+] Reflex Gallery
 <br>[+] Creative Contact Form
 <br>[+] Work The Flow File Upload
-<br>[+] WP Job Manger
-<br>[+] PHP Event Calendar
-<br>[+] Content Injection
-<br>[+] Cubed
-<br>[+] Rightnow Theme
-<br>[+] Konzept
+<br>[+] WP Job Manger 
+<br>[+] PHP Event Calendar 
+<br>[+] Content Injection 
+<br>[+] Cubed 
+<br>[+] Rightnow Theme 
+<br>[+] Konzept 
 <br>[+] Omni Secure Files
 <br>[+] Pitchprint `Private`
 <br>[+] Satoshi `Private`
