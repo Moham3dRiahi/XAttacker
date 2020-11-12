@@ -91,10 +91,10 @@ XAttacker v10 Tool Premium Vesion ☣ Website Vulnerability Scanner & Auto Explo
 <br>[+] Showbiz
 <br>[+] Simple Ads Manager
 <br>[+] Slide Show Pro
-<br>[+] WP Mobile Detector
-<br>[+] Wysija
-<br>[+] InBoundio Marketing
-<br>[+] dzs-zoomsounds
+<br>[+] WP Mobile Detector 
+<br>[+] Wysija 
+<br>[+] InBoundio Marketing 
+<br>[+] dzs-zoomsounds 
 <br>[+] Reflex Gallery
 <br>[+] Creative Contact Form
 <br>[+] Work The Flow File Upload
