@@ -184,15 +184,15 @@ XAttacker v10 Tool Premium Vesion ☣ Website Vulnerability Scanner & Auto Explo
 
 [4] PrestaShop<br>
 
-[+] columnadverts 
-[+] soopamobile 
-[+] soopabanners 
-[+] Vtermslideshow 
-[+] simpleslideshow 
-[+] productpageadverts 
-[+] homepageadvertise 
-[+] homepageadvertise2 
-[+] jro_homepageadvertise 
+[+] columnadverts  
+[+] soopamobile  
+[+] soopabanners  
+[+] Vtermslideshow  
+[+] simpleslideshow  
+[+] productpageadverts  
+[+] homepageadvertise  
+[+] homepageadvertise2  
+[+] jro_homepageadvertise  
 [+] attributewizardpro  
 [+] 1attributewizardpro  
 [+] AttributewizardproOLD  
