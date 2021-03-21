@@ -43,7 +43,7 @@ XAttacker v10 Tool Premium Vesion ☣ Website Vulnerability Scanner & Auto Explo
 <td>-p</td> 
 <td>--Proxy</td> 
 <td>Connection With Proxy</td>
-</tr>
+</tr> 
 <tr>
 <td>-t</td>
 <td>--tools</td>
