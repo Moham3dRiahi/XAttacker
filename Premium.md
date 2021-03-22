@@ -67,7 +67,7 @@ XAttacker v10 Tool Premium Vesion ☣ Website Vulnerability Scanner & Auto Explo
 <p>if you have list websites run tool with this command line<p>
 <code>perl XAttacker.pl -l list.txt</code>
 <p>if you don't have list websites run the tool with this command<p>
-<code>perl XAttacker.pl -tools</code>
+<code>perl XAttacker.pl -multi</code>
 
 <hr> 
 
