@@ -715,4 +715,4 @@ this will motivate me to create more exciting stuffs for you
 <hr>
 <h2>Don't Miss Out My New Telegram Channel for Updates </h2>
 
-<a href="https://t.me/XAttackerV20"><img src="https://img.shields.io/badge/Channel-Private%20Hacking%20Tools-red " alt="Version" data-canonical-src="https://img.shields.io/badge/Channel-Private%20Hacking%20Tools-red " style="max-width:100%;"></a>
+<a href="https://t.me/moham3driahi_tools"><img src="https://img.shields.io/badge/Channel-Private%20Hacking%20Tools-red " alt="Version" data-canonical-src="https://img.shields.io/badge/Channel-Private%20Hacking%20Tools-red " style="max-width:100%;"></a>
