@@ -3,7 +3,7 @@
 
 **XATTACKER** A Massive Exploiting Tool capable of scanning and auto-exploiting vulnerabilities in web applications, By providing a target website to the tool, it auto detects its’ architecture if using a Content Management Service (CMS) and tries to find vulnerabilities based on the detected CMS, After finding the vulnerabilities the tool will generate an exploit for the website and send the user the link of the exploit. 
 
-<br>
+<br> 
 <hr>
 <p><img src="https://s4.gifyu.com/images/IMG_2212.gif" width="620" height="380" /></p>
   <a href="#tools">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Exploits List</a> •
