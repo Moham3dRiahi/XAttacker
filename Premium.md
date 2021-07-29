@@ -2,7 +2,7 @@
 <img align="left" width="120" height="120" src="https://i.ibb.co/hWRd9g5/hacker-icon-on-white-background-vector-27223273-1.jpg">
 
 **XATTACKER** A Massive Exploiting Tool capable of scanning and auto-exploiting vulnerabilities in web applications, By providing a target website to the tool, it auto detects its’ architecture if using a Content Management Service (CMS) and tries to find vulnerabilities based on the detected CMS, After finding the vulnerabilities the tool will generate an exploit for the website and send the user the link of the exploit. 
-
+ 
 <br> 
 <hr>
 <p><img src="https://s4.gifyu.com/images/IMG_2212.gif" width="620" height="380" /></p>
@@ -90,7 +90,7 @@
  This Tool Is For Educational Purpose Only, Usage Of XATTACKER For Attacking Targets Without Prior Mutual Consent Is Illegal. Developers Assume No Liability And Are Not Responsible For Any Misuse Or Damage Cause By This Program.
 <hr>
 
-<a id="shots"></a>
+<a id="shots"></a> 
 ## Tools Overview
 | Front View | Multithread Feature	|
 | ------------  | ------------ |
