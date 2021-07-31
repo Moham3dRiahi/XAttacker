@@ -226,7 +226,7 @@ perl XAttacker.pl
  <tr>
 <td>Auto CMS Detect</td>
 <td><img src="https://img.shields.io/badge/-5 CMS-yellow" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-<td><img src="https://img.shields.io/badge/-23 CMS's Vulnerability-important" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
+<td><img src="https://img.shields.io/badge/-23 CMS's-important" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
 </tr>
 <tr>
 <td>Dork Search</td>
