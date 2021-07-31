@@ -62,7 +62,7 @@
 <h2>Example</h2>
 <p>if you have list websites run tool with this command line<p>
 <code>perl XAttacker.pl -l list.txt</code>
-<p>if you don't have list websites run the tool with this command<p>
+<p>if you want run multithread <p>
 <code>perl XAttacker.pl -multi</code>
 
 <hr> 
