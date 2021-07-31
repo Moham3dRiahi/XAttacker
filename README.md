@@ -45,7 +45,7 @@
 
 - Vulnerability Scanner
 - Auto-Exploiting
-- Content Management System ATTACKERR
+- Content Management System Attacker
 - Dork Search with more 1 Search Engine
 - Reporting (Plain text)
 
@@ -223,7 +223,11 @@ perl XAttacker.pl
 <td><img src="https://img.shields.io/badge/-70 Exploit-yellow" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
 <td><img src="https://img.shields.io/badge/-1820 Exploit-important" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></a></td>
 </tr>
-
+ <tr>
+<td>Auto CMS Detect</td>
+<td><img src="https://img.shields.io/badge/-5 CMS-yellow" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
+<td><img src="https://img.shields.io/badge/-23 CMS's Vulnerability-important" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
+</tr>
 <tr>
 <td>Dork Search</td>
 <td><img src="https://img.shields.io/badge/-1 Search Engine-yellow" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
