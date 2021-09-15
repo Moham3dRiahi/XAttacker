@@ -121,7 +121,7 @@
 - Breadcrumb Navxt<br />
 - Broken Link Checker<br />
 - Buddypress<br />
-- Buddypress Media<br />
+- Body Media<br />
 - Buddypress Media<br />
 - Budyshare<br />
 - Bulletproof Security<br />
