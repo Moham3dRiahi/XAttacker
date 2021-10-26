@@ -117,6 +117,7 @@
 - Bbpress<br />
 - Better Wp Security<br />
 - Bigcontact<br />
+- BigBanner<br />
 - Blaze<br />
 - Breadcrumb Navxt<br />
 - Broken Link Checker<br />
@@ -420,6 +421,7 @@
 - com_bit <br />
 - com_blog <br />
 - com_blog <br />
+- com_bytes<br />
 - com_blog_calendar <br />
 - com_blogfactory <br />
 - com_bnf <br />
