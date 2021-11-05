@@ -168,6 +168,7 @@
 - Hello Dolly<br />
 - Holding_Pattern Theme<br />
 - Hotfix<br />
+- HotTheme<br />
 - Hyper Cache<br />
 - Image Widget<br />
 - Inboundio Marketing<br />
