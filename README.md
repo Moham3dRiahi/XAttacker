@@ -166,7 +166,7 @@
 
 <hr>
 <a id="tuto"> <h2>Video</h2>
-<a href="https://www.youtube.com/watch?v=EgqTsrWt2VU"><img src="https://i.imgur.com/5B96biH.png"width="620" height="380"/></a>
+<a href="https://player.vimeo.com/video/649098221"><img src="https://i.imgur.com/5B96biH.png"width="620" height="380"/></a>
 </hr>
 
 <hr>
