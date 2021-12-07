@@ -213,6 +213,7 @@
 - Rightnow Theme<br />
 - Rotatingtweets<br />
 - Satoshi<br />
+- Scanroo<br />
 - Search And Replace<br />
 - Seo Automatic Links<br />
 - Seo Image<br />
