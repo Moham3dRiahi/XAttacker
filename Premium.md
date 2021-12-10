@@ -188,6 +188,7 @@
 - Mobile App Native<br />
 - Mtheme Unus<br />
 - Newsletter<br />
+- Newsletter2<br />
 - Ninja Forms<br />
 - Omni Secure Files<br />
 - Options Framework<br />
