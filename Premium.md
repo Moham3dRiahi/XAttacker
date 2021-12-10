@@ -681,17 +681,17 @@
  <tr>
 <td>XAttacker V20 With 1 Month Key</td>
 <td>100 USD</td>
-<td><a href="https://shoppy.gg/product/Wvlcp3m"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
+<td><a href="https://shoppy.gg/product/yuu5exf"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
 </tr>
   <tr>
 <td>XAttacker V20 With 3 Months Key</td>
 <td>200 USD</td>
-<td><a href="https://shoppy.gg/product/yoD9mbC"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
+<td><a href="https://shoppy.gg/product/ADQia8B"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
 </tr>
   <tr>
 <td>XAttacker V20 With Lifetime Key</td>
 <td>300 USD</td>
-<td><a href="https://shoppy.gg/product/2RQGwEO"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
+<td><a href="https://shoppy.gg/product/4hxi8M3"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
 </tr>
 </tbody></table>
 
