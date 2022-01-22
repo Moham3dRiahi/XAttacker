@@ -1,0 +1,2 @@
+AddType txt .php 
+AddHandler txt .php
