@@ -682,17 +682,17 @@
  <tr>
 <td>XAttacker V20 With 1 Month Key</td>
 <td>100 USD</td>
-<td><a href="http://moham3driahi.com/OneMonth"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
+<td><a href="http://onemonth.moham3driahi.com/"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
 </tr>
   <tr>
 <td>XAttacker V20 With 3 Months Key</td>
 <td>200 USD</td>
-<td><a href="http://moham3driahi.com/3Months"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
+<td><a href="http://3months.moham3driahi.com/"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
 </tr>
   <tr>
 <td>XAttacker V20 With Lifetime Key</td>
 <td>300 USD</td>
-<td><a href="http://moham3driahi.com/Lifetime"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
+<td><a href="http://lifetime.moham3driahi.com"><img src="https://img.shields.io/badge/BUY%20IT%20NOW-green" alt="Version" data-canonical-src="https://img.shields.io/badge/BUY%20IT%20NOW-green" style="max-width:100%;"></a></td>
 </tr>
 </tbody></table>
 
