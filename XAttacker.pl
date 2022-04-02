@@ -110,6 +110,11 @@ print color("bold red"), "".scalar(@TARGETS)."\n\n\n";
 print color('reset');
 
 OUTER: foreach $site(@TARGETS){
+
+my @spl = split('/', $site);
+$site = @spl[0]."//".@spl[2];
+
+
 chomp($site);
 $a++;
 cms();
