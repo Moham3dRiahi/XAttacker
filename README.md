@@ -7,7 +7,7 @@
 
 
 <hr><h2>📣 🔥 Finally My New Private Tool 🔥 📣</h2>
-<h2>🌟 <a href="https://github.com/Moham3dRiahi/XAttacker/blob/master/Premium.md">XAttacker v20 Tool Premium</a> 🌟</h2>
+<h2>🌟 <a href="https://t.me/moham3driahi_tools">XAttacker v20 Tool Premium</a> 🌟</h2>
 <hr>
 <h1>XAttacker V2.5 Tool FREE</h1>
 <p><img src="https://i.ibb.co/hY1LqgC/Screenshot-at-2021-07-31-09-01-23.png" width="620" height="380" /></p>
