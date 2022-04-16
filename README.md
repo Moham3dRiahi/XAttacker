@@ -4,16 +4,11 @@
 **XATTACKER** A Massive Exploiting Tool capable of scanning and auto-exploiting vulnerabilities in web applications, By providing a target website to the tool, it auto detects its’ architecture if using a Content Management Service (CMS) and tries to find vulnerabilities based on the detected CMS, After finding the vulnerabilities the tool will generate an exploit for the website and send the user the link of the exploit. 
  
 <br> 
-
-
-<hr><h2>📣 🔥 Finally My New Private Tool 🔥 📣</h2>
-<h2>🌟 <a href="https://t.me/moham3driahi_tools">XAttacker v20 Tool Premium</a> 🌟</h2>
 <hr>
 <h1>XAttacker V2.5 Tool FREE</h1>
 <p><img src="https://i.ibb.co/hY1LqgC/Screenshot-at-2021-07-31-09-01-23.png" width="620" height="380" /></p>
   <a href="#tools">&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Exploits List</a> •
     <a href="#usage">Usage</a> •
-  <a href="#pro">PRO Version</a> •  
   <a href="#tuto">Tutorial</a> •
 
 <a id="usage"><h2>USAGE</h2></a>
@@ -202,110 +197,6 @@ cd Desktop/XAttacker-master/
 perl XAttacker.pl
 ```
 
-<a id="pro"></a>
-<h2>The Difference Between FREE And <a href="https://player.vimeo.com/video/552973654">PRO</a> Version</h2>
-<table>
-<thead>
-<tr>
-<th>Features</th>
-<th>FREE</th>
-<th>PRO</th>
-</tr>
-</thead>
-<tbody>
- <tr>
-<td>Vulnerability Scanner</td>
-<td><img src="https://img.shields.io/badge/-71 Vulnerability-yellow" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-<td><img src="https://img.shields.io/badge/-1844 Vulnerability-important" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-</tr>
-  <tr>
-<td>Auto Exploiting</td>
-<td><img src="https://img.shields.io/badge/-70 Exploit-yellow" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-<td><img src="https://img.shields.io/badge/-1820 Exploit-important" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></a></td>
-</tr>
- <tr>
-<td>Auto CMS Detect</td>
-<td><img src="https://img.shields.io/badge/-5 CMS-yellow" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-<td><img src="https://img.shields.io/badge/-23 CMS's-important" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-</tr>
-<tr>
-<td>Dork Search</td>
-<td><img src="https://img.shields.io/badge/-1 Search Engine-yellow" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-<td><img src="https://img.shields.io/badge/-50 Search Engines-important" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></a></td>
-</tr>  <tr>
-
-
-  <tr>
-<td>Multithread Attack</td>
-<td><img src="https://img.shields.io/badge/-Not%20Available-red" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-<td><img src="https://img.shields.io/badge/-Available-green" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></a></td>
-</tr>
-
-  <tr>
-<td>Fixing A Vulnerability</td>
-<td><img src="https://img.shields.io/badge/-Not%20Available-red" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-<td><img src="https://img.shields.io/badge/-Available-green" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></a></td>
-</tr>
-
-  <tr>
-<td>Connection With Proxy</td>
-<td><img src="https://img.shields.io/badge/-Not%20Available-red" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-<td><img src="https://img.shields.io/badge/-Available-green" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></a></td>
-</tr>
-
-
-  <tr>
-<td>Payload Encoding</td>
-<td><img src="https://img.shields.io/badge/-Not%20Available-red" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-<td><img src="https://img.shields.io/badge/-Available-green" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></a></td>
-</tr>
-
-  <tr>
-<td>cPanel Attack</td>
-<td><img src="https://img.shields.io/badge/-Not%20Available-red" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-<td><img src="https://img.shields.io/badge/-Available-green" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></a></td>
-</tr>
-
-  <tr>
-<td>WHMCS Attack</td>
-<td><img src="https://img.shields.io/badge/-Not%20Available-red" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-<td><img src="https://img.shields.io/badge/-Available-green" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></a></td>
-</tr>
-
-
-  <tr>
-<td>FTP Attack</td>
-<td><img src="https://img.shields.io/badge/-Not%20Available-red" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-<td><img src="https://img.shields.io/badge/-Available-green" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></a></td>
-</tr>
-
-
-  <tr>
-<td>SSH Attack</td>
-<td><img src="https://img.shields.io/badge/-Not%20Available-red" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-<td><img src="https://img.shields.io/badge/-Available-green" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></a></td>
-</tr>
-
-
-  <tr>
-<td>RDP Attack</td>
-<td><img src="https://img.shields.io/badge/-Not%20Available-red" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-<td><img src="https://img.shields.io/badge/-Available-green" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></a></td>
-</tr>
-
-
-  <tr>
-<td>SMTP Attack</td>
-<td><img src="https://img.shields.io/badge/-Not%20Available-red" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></td>
-<td><img src="https://img.shields.io/badge/-Available-green" alt="Version" data-canonical-src="https://img.shields.io/badge/ICQ-moham3driahi-brightgreen " style="max-width:100%;"></a></a></td>
-</tr>
-
-
-
-
-
-</tbody></table>
-
 <hr>
 
 ## Donations
@@ -315,7 +206,7 @@ this will motivate me to create more exciting stuffs for you
 
 <hr>
 <h2>📧 Contact</h2>
-<h3>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On : </h3><br>
+<h3>You Want Ask About All My Tools Add Me On : </h3><br>
  <tr><br>
 <td><a href="https://t.me/moham3driahi"><img src="https://img.shields.io/badge/TELEGRAM-moham3driahi-blue" alt="Version" data-canonical-src="https://img.shields.io/badge/TELEGRAM-moham3driahi-blue" style="max-width:100%;"></a></td>
 </tr>
